@@ -1,2 +1,2 @@
-# hephaestus
+# Hephaestus
 Universal SQL refactoring &amp; optimizing tool
